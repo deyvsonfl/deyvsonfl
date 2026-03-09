@@ -51,9 +51,9 @@ const deyvson = {
 
 <div align="center">
 
-![Deyvson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deyvsonfelipe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7A800&icon_color=F7A800&text_color=FFFFFF)
+![Deyvson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deyvsonfl&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7A800&icon_color=F7A800&text_color=FFFFFF)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deyvsonfelipe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7A800&text_color=FFFFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deyvsonfl&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7A800&text_color=FFFFFF)
 
 </div>
 
@@ -63,7 +63,7 @@ const deyvson = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=deyvsonfelipe&theme=radical&hide_border=true&background=0D1117&ring=F7A800&fire=F7A800&currStreakLabel=F7A800)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=deyvsonfl&theme=radical&hide_border=true&background=0D1117&ring=F7A800&fire=F7A800&currStreakLabel=F7A800)](https://git.io/streak-stats)
 
 </div>
 
@@ -73,9 +73,8 @@ const deyvson = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deyvsonfelipe)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deyvsonfelipe)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deyvsonfelipe@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deyvsonnfelipe)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deyvsonflp@gmail.com)
 
 </div>
 
@@ -85,6 +84,6 @@ const deyvson = {
 
 > *"Todo especialista já foi um dia iniciante. O importante é nunca parar de codar."* 💻
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=deyvsonfelipe.deyvsonfelipe)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=deyvsonfl.deyvsonfl)
 
 </div>
